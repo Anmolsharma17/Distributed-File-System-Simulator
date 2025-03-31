@@ -11,3 +11,4 @@ Data Retrieval:-When a user requests a file, the metadata server identifies the 
 Failure Detection & Recovery:-A monitoring system constantly checks the health of storage nodes. If a node fails, the system redistributes the affected data to healthy nodes. Recovery mechanisms ensure minimal downtime and uninterrupted access to stored files.
 
 Scalability & Performance:- The system dynamically adds or removes nodes as needed to scale storage capacity. Distributed architecture ensures high availability and efficient resource utilization.
+![image](https://github.com/user-attachments/assets/9a74fcae-f1d2-48dd-8a95-a242448a064c)
